@@ -1,9 +1,9 @@
-h1{
+#titulo{
     color:red;
     text-align: center;
     font-size: 30px;  
 }
-p{
+.texto{
     color:rgb(108, 108, 150);
     text-align: center;
     font-size: 25px;
