@@ -3,8 +3,13 @@
     text-align: center;
     font-size: 30px;  
 }
-.texto{
+.texto1{
     color:rgb(108, 108, 150);
+    text-align: center;
+    font-size: 25px;
+}
+.texto2{
+    color:rgb(189, 28, 152);
     text-align: center;
     font-size: 25px;
 }
