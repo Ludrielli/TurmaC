@@ -7,16 +7,16 @@ body{
     font-size: 30px;  
 }
 .texto1{
-    color:rgb(108, 108, 150);
+    color:rgb(212, 212, 236);
     text-align: center;
     font-size: 25px;
-    background-color: aquamarine;
+    background-color: rgb(20, 20, 20);
 }
 .texto2{
-    color:rgb(189, 28, 152);
+    color:rgb(231, 197, 223);
     text-align: center;
     font-size: 25px;
-    background-color: darkkhaki;
+    background-color: rgb(23, 23, 22);
 }
 #foto{
     padding: 20px;
@@ -25,4 +25,8 @@ body{
 .img{
     text-align: center;
 }
-
+.lista{
+   font-size: 25px;
+   color: black;
+   background-color: white;
+}
